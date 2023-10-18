@@ -1,6 +1,6 @@
 ```
-Name: Sanjay Ragavendar M 
-Register Number: 212222100045
+Name: Abishek Xavier A
+Register Number: 212222230004
 ```
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
